@@ -1,5 +1,7 @@
 # fast-api-track
 
+python api开发框架，支持swagger 和 prometheus
+
 使用步骤
 安装依赖：
 
