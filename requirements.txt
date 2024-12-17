@@ -1,0 +1,12 @@
+fastapi==0.101.0
+uvicorn==0.22.0
+pydantic==2.7.0
+loguru==0.7.0
+prometheus-fastapi-instrumentator==5.11.1
+redis==5.0.0
+aioredis==2.0.1
+sqlalchemy==2.0.21
+pymysql==1.1.0
+httpx==0.24.1
+rocketmq-client-python==2.0.0
+pydantic-settings==2.7.0
